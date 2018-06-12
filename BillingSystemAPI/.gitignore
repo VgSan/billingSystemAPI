@@ -2,4 +2,16 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/RecruitmentM_BE/.vs/RecruitmentM_BE/v15/Server/sqlite3
+BillingSystemAPI/BillingSystem_BE/.vs/BillingSystem_BE/v15/Server/sqlite3
+
+BillingSystemAPI/BillingSystem_BE/BillingSystem.Application/bin
+BillingSystemAPI/BillingSystem_BE/BillingSystem.Application/obj
+
+BillingSystemAPI/BillingSystem_BE/BillingSystem.Core/bin
+BillingSystemAPI/BillingSystem_BE/BillingSystem.Core/obj
+
+BillingSystemAPI/BillingSystem_BE/BillingSystem.EntityFrameworkCore/bin
+BillingSystemAPI/BillingSystem_BE/BillingSystem.EntityFrameworkCore/obj
+
+BillingSystemAPI/BillingSystem_BE/BillingSystem.Web.Host/bin
+BillingSystemAPI/BillingSystem_BE/BillingSystem.Web.Host/obj
