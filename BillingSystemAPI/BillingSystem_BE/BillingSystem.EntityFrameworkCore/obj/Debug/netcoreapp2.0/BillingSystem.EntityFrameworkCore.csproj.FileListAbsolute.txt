@@ -1,0 +1,12 @@
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.AssemblyInfo.cs
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.deps.json
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.dll
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.pdb
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.0\BillingSystem.Core.dll
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.0\BillingSystem.Core.pdb
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.csproj.CopyComplete
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.dll
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.pdb

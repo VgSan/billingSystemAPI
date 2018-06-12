@@ -1,0 +1,22 @@
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.deps.json
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.dll
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.pdb
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.Core.dll
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.Core.pdb
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.dll
+C:\Users\pc-01\Source\Repos\RecruitmentM_BE\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.pdb
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.deps.json
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.dll
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.pdb
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.Core.dll
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\bin\Debug\netcoreapp2.0\RecruitmentM.Core.pdb
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.AssemblyInfo.cs
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.dll
+D:\SAT Data\RecruitmentM_BE-master\RecruitmentM_BE-master\RecruitmentM_BE\RecruitmentM.EntityFrameworkCore\obj\Debug\netcoreapp2.0\RecruitmentM.EntityFrameworkCore.pdb

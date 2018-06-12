@@ -1,0 +1,14 @@
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\obj\Debug\netcoreapp2.0\BillingSystem.Application.csprojResolveAssemblyReference.cache
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\obj\Debug\netcoreapp2.0\BillingSystem.Application.csproj.CoreCompileInputs.cache
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\obj\Debug\netcoreapp2.0\BillingSystem.Application.AssemblyInfoInputs.cache
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\obj\Debug\netcoreapp2.0\BillingSystem.Application.AssemblyInfo.cs
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\bin\Debug\netcoreapp2.0\BillingSystem.Application.deps.json
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\bin\Debug\netcoreapp2.0\BillingSystem.Application.dll
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\bin\Debug\netcoreapp2.0\BillingSystem.Application.pdb
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\bin\Debug\netcoreapp2.0\BillingSystem.Core.dll
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\bin\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.dll
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\bin\Debug\netcoreapp2.0\BillingSystem.Core.pdb
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\bin\Debug\netcoreapp2.0\BillingSystem.EntityFrameworkCore.pdb
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\obj\Debug\netcoreapp2.0\BillingSystem.Application.csproj.CopyComplete
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\obj\Debug\netcoreapp2.0\BillingSystem.Application.dll
+D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Application\obj\Debug\netcoreapp2.0\BillingSystem.Application.pdb
