@@ -1,7 +1,6 @@
 D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Core\bin\Debug\netcoreapp2.0\BillingSystem.Core.deps.json
 D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Core\bin\Debug\netcoreapp2.0\BillingSystem.Core.dll
 D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Core\bin\Debug\netcoreapp2.0\BillingSystem.Core.pdb
-D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Core\obj\Debug\netcoreapp2.0\BillingSystem.Core.csprojResolveAssemblyReference.cache
 D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Core\obj\Debug\netcoreapp2.0\BillingSystem.Core.csproj.CoreCompileInputs.cache
 D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Core\obj\Debug\netcoreapp2.0\BillingSystem.Core.AssemblyInfoInputs.cache
 D:\$sameera_prj_clone\API\BillingSystemAPI\BillingSystem_BE\BillingSystem.Core\obj\Debug\netcoreapp2.0\BillingSystem.Core.AssemblyInfo.cs
